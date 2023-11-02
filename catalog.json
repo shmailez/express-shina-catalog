@@ -1,0 +1,99 @@
+{
+    "categories": [
+        {
+            "id": 1001,
+            "name": "Одежда",
+            "slug": "odezhda",
+            "index": false,
+            "children": [
+                {
+                    "id": 1002,
+                    "name": "Верхняя одежда",
+                    "slug": "verhnaya-odezhda",
+                    "index": true,
+                    "children": [
+                        {
+                            "id": 1005,
+                            "name": "Пальто",
+                            "slug": "palto",
+                            "index": true,
+                            "children": null
+                        },
+                        {
+                            "id": 1006,
+                            "name": "Куртки",
+                            "slug": "kurtki",
+                            "index": true,
+                            "children": null
+                        },
+                        {
+                            "id": 1007,
+                            "name": "Плащи",
+                            "slug": "plasshi",
+                            "index": true,
+                            "children": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1003,
+                    "name": "Обувь",
+                    "slug": "obuv",
+                    "index": false,
+                    "children": [
+                        {
+                            "id": 1008,
+                            "name": "Ботинки",
+                            "slug": "botinki",
+                            "index": true,
+                            "children": null
+                        },
+                        {
+                            "id": 1009,
+                            "name": "Кроссовки",
+                            "slug": "krossovki",
+                            "index": true,
+                            "children": null
+                        },
+                        {
+                            "id": 1010,
+                            "name": "Кеды",
+                            "slug": "kedy",
+                            "index": true,
+                            "children": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1004,
+                    "name": "Футболки/топы",
+                    "slug": "futbolki-topy",
+                    "index": true,
+                    "children": [
+                        {
+                            "id": 1011,
+                            "name": "Футболки",
+                            "slug": "futbolki",
+                            "index": false,
+                            "children": null
+                        },
+                        {
+                            "id": 1012,
+                            "name": "Топы",
+                            "slug": "topy",
+                            "index": false,
+                            "children": null
+                        },
+                        {
+                            "id": 1013,
+                            "name": "Свитшоты",
+                            "slug": "svitshoty",
+                            "index": true,
+                            "children": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
